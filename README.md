@@ -1,5 +1,7 @@
-Untuk menjalankan project ini cukup run:
+Untuk menjalankan project ini cukup clone project dan run:
 
-1. php artisan serve
+1. composer install
+   
+2. php artisan serve
 
-2. pergi ke halaman index '/' untuk melihat hasil 
+3. pergi ke halaman index '/' untuk melihat hasil 
